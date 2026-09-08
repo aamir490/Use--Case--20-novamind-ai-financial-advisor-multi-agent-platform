@@ -10,19 +10,19 @@ NEXT Insurance branding · Powered by NovaMind Ai · Built by Aamir
 
 ### Login
 
-![NovaMind AI — Login](../project-pic/login_page1.png)
+![NovaMind AI — Login](/project-pic/login_page1.png)
 
 ### Chat Dashboard
 
-![NovaMind AI — Dashboard](../project-pic/dashboard2.png)
+![NovaMind AI — Dashboard](/project-pic/dashboard2.png)
 
 ### Budget Planning (Streaming Response)
 
-![NovaMind AI — Budget breakdown](../project-pic/dashboard3.png)
+![NovaMind AI — Budget breakdown](/project-pic/dashboard3.png)
 
 ### Multi-Agent Chat Output
 
-![NovaMind AI — Chat output](../project-pic/NovaMind%20AI%20Financial%20Advisor_output.png)
+![NovaMind AI — Chat output](/project-pic/NovaMind%20AI%20Financial%20Advisor_output.png)
 
 ---
 
@@ -30,24 +30,24 @@ NEXT Insurance branding · Powered by NovaMind Ai · Built by Aamir
 
 ### Multi-Agent Design (Local / Development)
 
-![Multi-agent architecture](../project-pic/AWS_strands_MultiAgent.png)
+![Multi-agent architecture](/project-pic/AWS_strands_MultiAgent.png)
 
 ### Production Deployment on AWS
 
-![Multi-agent deployment on AgentCore](../project-pic/AWS_strands_MultiAgent_deploy.png)
+![Multi-agent deployment on AgentCore](/project-pic/AWS_strands_MultiAgent_deploy.png)
 
 ### Single Agent (Phase 1)
 
-![Single agent architecture](../project-pic/AWS_strands_singleAgent.png)
+![Single agent architecture](/project-pic/AWS_strands_singleAgent.png)
 
 ### AWS Infrastructure
 
 | Component | Screenshot |
 |-----------|------------|
-| Amazon Bedrock Guardrails | ![Bedrock Guardrail](../project-pic/AWS_bedrock_guardrail.png) |
-| Amazon Cognito User Pool | ![Cognito User Pool](../project-pic/AWS_cognito-userpoool.png) |
-| Cognito User | ![Cognito User](../project-pic/AWS_COGNITO_USER.png) |
-| Amazon ECR Repository | ![ECR Repository](../project-pic/AWS_ecr_repo.png) |
+| Amazon Bedrock Guardrails | ![Bedrock Guardrail](/project-pic/AWS_bedrock_guardrail.png) |
+| Amazon Cognito User Pool | ![Cognito User Pool](/project-pic/AWS_cognito-userpoool.png) |
+| Cognito User | ![Cognito User](/project-pic/AWS_COGNITO_USER.png) |
+| Amazon ECR Repository | ![ECR Repository](/project-pic/AWS_ecr_repo.png) |
 
 ### Request Flow
 
