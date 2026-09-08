@@ -1,0 +1,7 @@
+{
+    "aws.cloudformation.diagnostics.cfnGuard.enabledRulePacks": [
+        "wa-Security-Pillar",
+        "ABS-CCIGv2-Standard",
+        "ABS-CCIGv2-Material"
+    ]
+}
