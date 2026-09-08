@@ -48,6 +48,8 @@ NEXT Insurance branding · Powered by NovaMind Ai · Built by Aamir
 | Amazon Cognito User Pool | ![Cognito User Pool](/project-pic/AWS_cognito-userpoool.png) |
 | Cognito User | ![Cognito User](/project-pic/AWS_COGNITO_USER.png) |
 | Amazon ECR Repository | ![ECR Repository](/project-pic/AWS_ecr_repo.png) |
+| AWS CodeBuild (ARM64 Build) | ![CodeBuild](/project-pic/aws_codeBuild.png) |
+| AWS Amplify (Frontend Hosting) | ![Amplify](/project-pic/aws-amplify.png) |
 
 ### Request Flow
 
