@@ -8,6 +8,19 @@ NEXT Insurance branding · Powered by NovaMind Ai · Built by Aamir
 
 ## Screenshots
 
+
+### 🏗️ Architecture Overview
+
+NovaMind AI Financial Advisor is a secure, serverless **multi-agent AI platform** built with AWS.
+
+* **User Experience:** A **Next.js Streaming Chat UI** hosted on **AWS Amplify** uses **Amazon Cognito** for authentication and **SSE** for real-time responses.
+* **AI Orchestration:** **Amazon Bedrock AgentCore Runtime** runs a **Strands Orchestrator Agent**, which uses **AgentCore Memory** and routes requests to specialized **Budget** and **Financial Analysis Agents**.
+* **AI & Data:** Agents use **Amazon Nova Pro** through **Amazon Bedrock**, while the Financial Analysis Agent retrieves market data using the **yfinance API**.
+* **Security:** **Amazon Bedrock Guardrails** help enforce financial safety policies and block restricted topics such as cryptocurrency and high-risk trading advice.
+
+
+![Architecture](/project-pic/architecture.jpg)
+
 ### Login
 
 ![NovaMind AI — Login](/project-pic/login_page1.png)
